@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedahmedoumer" alt="ahmedahmedoumer" /></a> </p>
 
-- 🔭 I’m currently working on IE Network Solutions [Service Desk](https://github.com/IE-Network-Solutions/ie-service-desk.git)
+- 🔭 I’m currently working on IE Network Solutions [Service Desk](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
 
-- 🌱 I’m currently learning **devOps**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedahmedoumer](https://github.com/ahmedahmedoumer)
 
