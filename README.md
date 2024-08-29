@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedahmedoumer](https://github.com/ahmedahmedoumer)
 
-- 💬 Ask me about **Laravel,Javascript,Node js,React,Vue,Nest js,Next js,Docker,Tailwindcss,Redux**
+- 💬 Ask me about **Laravel,Javascript,Node js,React,Vue,typescript,zustand,SWR , Nest js,Next js,Docker,Tailwindcss,Redux**
 
 - 📫 How to reach me **ahmedinoumer13@gmail.com**
 
