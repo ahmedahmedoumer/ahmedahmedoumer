@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedahmedoumer" alt="ahmedahmedoumer" /></a> </p>
 
-- 🔭 I’m currently working on IE Network Solutions [Service Desk](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
+- 🔭 I’m currently working on IE Network Solutions [PEP](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
 
 - 🌱 I’m currently learning **AWS**
 
