@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on IE Network Solutions [PEP](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m Certified AWS developer - associate 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedahmedoumer](https://github.com/ahmedahmedoumer)
 
