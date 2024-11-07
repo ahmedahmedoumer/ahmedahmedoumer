@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedahmedoumer" alt="ahmedahmedoumer" /></a> </p>
 
-- 🔭 I’m currently working on IE Network Solutions [PEP](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
+- 🔭 I’m currently working on IE Network Solutions [Selamnew Workspace](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend)
 
 - 🌱 I’m Certified AWS developer - associate 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedahmedoumer](https://github.com/ahmedahmedoumer)
 
-- 💬 Ask me about **Laravel,Javascript,Node js,React,Vue,typescript,zustand,SWR , Nest js,Next js,Docker,Tailwindcss,Redux**,AWS.
+- 💬 Ask me about **Laravel,Javascript,Node js,React,Vue,typescript,react query,zustand,SWR , Nest js,Next js,Docker,Tailwindcss,Redux**,AWS.
 
 - 📫 How to reach me **ahmedinoumer13@gmail.com**
 
